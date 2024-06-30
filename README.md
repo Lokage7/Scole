@@ -1,13 +1,13 @@
 <h1>Hi, I'm Sharaden<br/> <a href="https://www.linkedin.com/in/sharadencole/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 My Cybersecurity Projects</h2>
+<h2>👨🏾‍💻 My Cybersecurity Projects</h2>
 
 - <b>[Building Elastic SIEM Home Lab</b>](https://github.com/Lokage7/Elastic-SIEM-Home-Lab)
 
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳🏾 Connect with me:</h2>
 
 [<img align="left" alt="SharadenCole | LinkedIn" width="22px" src="https://i.sstatic.net/gVE0j.png" />][linkedin]
 
