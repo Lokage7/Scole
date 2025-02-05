@@ -4,7 +4,9 @@
 
 - <b>[Building Elastic SIEM Home Lab</b>](https://github.com/Lokage7/Elastic-SIEM-Home-Lab)
 - <b>[Gap Analysis of Vendor Privacy and Security Policy</b>](https://github.com/Lokage7/GRC-Projects)
-- <b>[Cybersecurity Audit and Risk Lab</b>](https://github.com/Lokage7/Audit-and-Risk-Assessment-Lab)
+- <b>[Cybersecurity Audit and Risk</b>](https://github.com/Lokage7/Audit-and-Risk-Assessment-Lab)
+- <b>[Third Party Risk Management</b>](https://github.com/Lokage7/Third-Party-Risk-Policy)
+
 
 
 <h2> 🤳🏾 Connect with me:</h2>
